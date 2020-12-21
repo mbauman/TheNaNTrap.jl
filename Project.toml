@@ -3,6 +3,10 @@ uuid = "6617227e-8b0f-44b8-a378-54901d3fdf2e"
 authors = ["Julia Computing", "Matt Bauman <mbauman@juliacomputing.com>", "and contributors"]
 version = "0.1.0"
 
+[deps]
+Cassette = "7057c7e9-c182-5462-911a-8362d720325c"
+ReplMaker = "b873ce64-0db9-51f5-a568-4457d8e49576"
+
 [compat]
 julia = "1"
 
